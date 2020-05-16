@@ -1,20 +1,32 @@
 # Chirper Project
 
-This repo is a code-along with the first project in the [React Nanodegree program](https://www.udacity.com/course/react-nanodegree--nd019).
+This project is a simple clone of Twitter totally based on redux and react, where redux is used to handle the store and react is handling the UI of the project.
 
-Most of the commits in this repository correspond to videos in the program.
+## HOME 
+-----
+![alt text](https://github.com/vishakhasingh4/reactnd-chirper-app/blob/master/chirper-home.png)
+
+------
+## NEW TWEET
+-------
+![alt text](https://github.com/vishakhasingh4/reactnd-chirper-app/blob/master/chirper-newtweet.png)
+
+-------
+## REPLY PAGE
+------
+![alt text](https://github.com/vishakhasingh4/reactnd-chirper-app/blob/master/chirper-reply.png)
+
+------
+## REPLYING TO PAGE
+------
+![alt text](https://github.com/vishakhasingh4/reactnd-chirper-app/blob/master/chirper-replyingto.png)
+
+------
+
 
 ## Project Setup
 
-* clone the Project - `git@github.com:udacity/reactnd-chirper-app.git`
-* install the dependencies - `npm install`
+* clone the Project - [https://github.com/vishakhasingh4/reactnd-chirper-app.git]
+* install all project dependencies with - `npm install`
+* start the development server with - `npm start`
 
-## Contributing
-
-Because this is a code-along project and the commits correspond to specific videos in the program, we will not be accepting pull requests.
-
-If you feel like there's a major problem, please open an issue to discuss the problem and potential resolution.
-
-## License
-
-MIT
